@@ -21,5 +21,4 @@ two-way audio communication.
 - images/ → Prototype photos
 
 ## Demo Videos
-- Video 1: [paste YouTube/Drive link]
-- Video 2: [paste YouTube/Drive link]
+- Video : [https://drive.google.com/file/d/1jC-1gymJ2CE3ABTquMsiPeDGJYzTMqKs/view?usp=sharing]
